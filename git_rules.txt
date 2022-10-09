@@ -2,5 +2,5 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/ABHISHEKGHARAMI/javascript_mod.git
+git remote add origin https://github.com/ABHISHEKGHARAMI/relevel_backend.git
 git push -u origin main
