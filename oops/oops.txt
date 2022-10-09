@@ -1,0 +1,8 @@
+
+Objects oriented Programming
+1.class
+2.this
+3.prototype
+
+Paramitarized Constructer:
+When you use

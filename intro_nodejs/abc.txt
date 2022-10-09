@@ -1,0 +1,1 @@
+A plain text document is a kind of document that doesn't preserve formatting – for example links or words in bold, italics, with underline, images, colors, different font types, tables, lists with bullets/numbers. These files are normally saved as *. txt.
